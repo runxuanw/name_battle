@@ -1,5 +1,5 @@
 # Name Battle
-## Introduction
+## What it does
 Name battle is a simulation fighting game. It generates fighter's attribution and skill accordingly to MD5 of input String.
 This game is inspired by a flash game called Name Fight MD5.
 
